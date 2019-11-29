@@ -1,6 +1,8 @@
 # BiLSTM-CRF model for Turkish NER
 
-**bilstm** is a Python library for named entity recognition, implemented in Keras.
+**bilstm** is a Python library for named entity recognition, implemented in Keras. 
+
+This library is modified version of [Anago](https://github.com/Hironsan/anago).
 
 
 ## Installation
